@@ -49,6 +49,7 @@
 
 ---
 
+
 ## Configuring Your Server's Network
 Before using SSH, ensure your server's network is configured. Follow the instructions in [static-ip-config.md](static-ip-config.md) to set up your server's **netplan** for a static IP.
 
