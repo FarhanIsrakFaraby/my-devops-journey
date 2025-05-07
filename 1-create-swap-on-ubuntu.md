@@ -51,4 +51,5 @@ To create and enable a swap file on Ubuntu, follow these steps:
 
 ### Final Output
 Here is the final output after completing the steps: 
+
 ![Swap Final View](images/swap%20final%20view.png)
