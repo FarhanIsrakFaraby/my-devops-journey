@@ -5,6 +5,7 @@ To install **Ubuntu Server**, download it from the official website:
 
 [ubuntuServerDownload]: https://ubuntu.com/download/server
 
+
 ## Steps to Install Ubuntu Server
 
 1. **Download the Ubuntu Server ISO**: [Download Ubuntu Server][ubuntuServerDownload].  

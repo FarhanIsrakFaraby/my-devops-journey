@@ -49,3 +49,4 @@ Make sure to use your own IP addresses and Ethernet port names.
 
 After completing the static IP configuration, you can now SSH into your server.  
 For SSH instructions, refer to [ssh-config.md](ssh-config.md).
+
